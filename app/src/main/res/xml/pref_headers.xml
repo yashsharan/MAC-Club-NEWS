@@ -12,7 +12,7 @@
     <header
         android:icon="@drawable/ic_rss"
         android:title="RSS Feeds Providers"
-    android:fragment="com.bitsgoa.macclub.news.plus.news.SettingsActivity$RSSFeedSettings"
+    android:fragment="com.bitsgoa.macclub.news.plus.news.SettingsActivity$RSSFeedSettingsFragment"
 
         />
     <header

@@ -8,16 +8,19 @@
     <CheckBoxPreference
         android:key="rssfeedndtvnews"
         android:title="NDTV News"
+        android:icon="@drawable/ndtv_icon"
         android:defaultValue="true"
         android:clickable="true"/>
     <CheckBoxPreference
         android:key="rssfeedtechcrunch"
         android:title="Tech Crunch"
         android:defaultValue="true"
+        android:icon="@drawable/tc_icon_128x128"
         android:clickable="true"/>
     <CheckBoxPreference
         android:key="rssfeedtoi"
         android:title="Times Of India"
+        android:icon="@drawable/toi_icon"
         android:defaultValue="true"
         android:clickable="true"
         />
